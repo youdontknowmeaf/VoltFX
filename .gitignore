@@ -1,0 +1,8 @@
+out/
+*.iso
+*.tar.gz
+*.log
+*.img
+*.sfs
+*.squashfs
+work/
